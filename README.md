@@ -1,5 +1,4 @@
-
-'''
+```hcl
 project-root/
 ├── modules/
 │   ├── ec2/
@@ -22,4 +21,4 @@ project-root/
 ├── backend.tf
 ├── provider.tf
 └── variables.tf
-'''
+```
